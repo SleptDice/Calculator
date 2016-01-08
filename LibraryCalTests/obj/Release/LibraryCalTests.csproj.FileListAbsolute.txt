@@ -1,0 +1,7 @@
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\bin\Release\LibraryCalTests.dll
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\bin\Release\LibraryCalTests.pdb
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\bin\Release\LibraryCal.dll
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\obj\Release\LibraryCalTests.csprojResolveAssemblyReference.cache
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\obj\Release\LibraryCalTests.dll
+C:\Users\End User\Documents\Visual Studio 2015\Projects\Calculator\LibraryCalTests\obj\Release\LibraryCalTests.pdb
